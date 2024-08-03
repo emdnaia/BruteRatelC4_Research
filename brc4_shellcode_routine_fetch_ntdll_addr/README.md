@@ -12,4 +12,6 @@
 6. We just move the base address of ntdll to rcx for further usage.
 ```
 
+*Wrote a PoC for the Brc4 Shellcode routine:* [**brc4_shellcode_routine_fetch_ntdll_addr.asm**](https://github.com/knight0x07/BruteRatelC4_Research/blob/main/brc4_shellcode_routine_fetch_ntdll_addr/brc4_shellcode_routine_fetch_ntdll_addr.asm)
+
 ![img](https://github.com/user-attachments/assets/a6338937-1627-4e71-a3e3-f37dc31d8f59)
