@@ -1,2 +1,2 @@
-# BruteRatelC4_Research
-BruteRatel C4 Research by knight0x07
+# *BruteRatelC4_Research*
+*BruteRatel C4 Research by knight0x07*
